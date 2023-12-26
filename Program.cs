@@ -10,7 +10,7 @@
  
  * Salida de Datos
  
- * Nombre: Juan Soto
+ * Nombre: Juan Soto Castro
  * Dia de Nacimiento: 24
  * Mes: Junio
  * Ano: 1991
